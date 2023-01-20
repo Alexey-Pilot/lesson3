@@ -1,0 +1,15 @@
+C:\Users\alexr\OneDrive\Рабочий стол\l3\lesson3\ex23\bin\Debug\net6.0\ex23.exe
+C:\Users\alexr\OneDrive\Рабочий стол\l3\lesson3\ex23\bin\Debug\net6.0\ex23.deps.json
+C:\Users\alexr\OneDrive\Рабочий стол\l3\lesson3\ex23\bin\Debug\net6.0\ex23.runtimeconfig.json
+C:\Users\alexr\OneDrive\Рабочий стол\l3\lesson3\ex23\bin\Debug\net6.0\ex23.dll
+C:\Users\alexr\OneDrive\Рабочий стол\l3\lesson3\ex23\bin\Debug\net6.0\ex23.pdb
+C:\Users\alexr\OneDrive\Рабочий стол\l3\lesson3\ex23\obj\Debug\net6.0\ex23.csproj.AssemblyReference.cache
+C:\Users\alexr\OneDrive\Рабочий стол\l3\lesson3\ex23\obj\Debug\net6.0\ex23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexr\OneDrive\Рабочий стол\l3\lesson3\ex23\obj\Debug\net6.0\ex23.AssemblyInfoInputs.cache
+C:\Users\alexr\OneDrive\Рабочий стол\l3\lesson3\ex23\obj\Debug\net6.0\ex23.AssemblyInfo.cs
+C:\Users\alexr\OneDrive\Рабочий стол\l3\lesson3\ex23\obj\Debug\net6.0\ex23.csproj.CoreCompileInputs.cache
+C:\Users\alexr\OneDrive\Рабочий стол\l3\lesson3\ex23\obj\Debug\net6.0\ex23.dll
+C:\Users\alexr\OneDrive\Рабочий стол\l3\lesson3\ex23\obj\Debug\net6.0\refint\ex23.dll
+C:\Users\alexr\OneDrive\Рабочий стол\l3\lesson3\ex23\obj\Debug\net6.0\ex23.pdb
+C:\Users\alexr\OneDrive\Рабочий стол\l3\lesson3\ex23\obj\Debug\net6.0\ex23.genruntimeconfig.cache
+C:\Users\alexr\OneDrive\Рабочий стол\l3\lesson3\ex23\obj\Debug\net6.0\ref\ex23.dll
